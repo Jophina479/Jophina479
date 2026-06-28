@@ -4,10 +4,6 @@
 
 🌱 Currently learning React and JavaScript
 
-## 🌐 Connect with me
-
-- Instagram: https://instagram.com/Jophina_01
-
 
 ## 💻 Tech Stack
 

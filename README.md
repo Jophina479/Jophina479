@@ -1,26 +1,10 @@
 # Hi 👋 I'm Jophina Bhoyadhya
 
-### BSc CSIT Student | Learning React & Python
+### BSc CSIT Student |
 
 - 🌱 Currently learning **React** and **Python**
-- 💻 Tech Stack: **C, C++, Python, JavaScript, HTML, CSS, React**
+- Actively buildings projects & sharpening frontend skills.
 
-## 🚀 Featured Projects
-
-### 🎵 Spotify Clone
-A responsive Spotify-inspired music player UI.
-
-### ✅ To Do List
-Task management app with clean UI.
-
-### 🏨 Hotel Booking System
-Hotel booking interface with reservation features.
-
-### 📚 Attendance Management System
-Attendance tracking project.
-
-### 🧠 Memory Card Game
-Memory matching game built with HTML, CSS and JavaScript.
 
 ## 🛠️ Tech Stack
 

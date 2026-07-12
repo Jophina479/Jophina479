@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:7dd3fc&height=200&section=header&text=Jophina%20Bhoyadhya&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F3E8FF,50:C4B5FD,100:8B5CF6&height=200&section=header&text=Jophina%20Bhoyadhya&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=CSIT+Student;Frontend+%26+Web+Developer;Actively+buildings+projects+and+sharpening+skills;Learning+React+%26+Python" alt="Typing SVG" />

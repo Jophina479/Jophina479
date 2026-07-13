@@ -22,9 +22,9 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Jophina479&show_icons=true&theme=nord).
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jophina479&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jophina479&layout=compact&theme=nord)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jophina479&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 ![Streak](https://streak-stats.demolab.com?user=Jophina479&theme=nord)
 
